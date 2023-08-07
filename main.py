@@ -1,6 +1,6 @@
 import os
 
-from src.utils import get_youtube_data, create_database, save_data_to_database
+from utils import get_youtube_data, create_database, save_data_to_database
 from config import config
 
 
