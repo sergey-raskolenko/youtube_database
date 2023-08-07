@@ -5,7 +5,7 @@ from config import config
 
 
 def main():
-    api_key = os.getenv('YT_API_KEY')
+    api_key = os.getenv('YOUTUBE_API_KEY')
     channel_ids = [
         'UC-OVMPlMA3-YCIeg4z5z23A',  # moscowpython
         'UCwHL6WHUarjGfUM_586me8w',  # highload
